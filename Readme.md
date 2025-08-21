@@ -30,8 +30,8 @@ Feedbacks
 - Step 4th. Extract the file and copy “Download Folder” folder
 - Step 5th. Paste inside root directory/ where you install xampp/ WAMP local disk C: drive D: drive E: paste: for xampp/htdocs,
 - Step 6th. Open PHPMyAdmin http://localhost/phpmyadmin
-- Step 7th. Create database name "ccbd_online_db"
-- Step 8th. Import "ccbd_online_db.sql" file given inside the zip package in SQL file folder
+- Step 7th. Create database name "online_exam_db"
+- Step 8th. Import "online_exam_db.sql" file given inside the zip package in SQL file folder
 - Step 9th. Run the script http://localhost/"Folder"
 - Step 10th. Admin Panel to Go -> "http://localhost/'Folder Location'/adminpanel/admin"
 - Step 11th. Login Admin Panel / Student Panel.
